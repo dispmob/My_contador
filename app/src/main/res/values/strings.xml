@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">My Contador</string>
+    <string name="btn_name">AUMENTAR</string>
 </resources>

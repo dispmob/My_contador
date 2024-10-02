@@ -22,7 +22,7 @@
         android:id="@+id/activity_main_btn_aumentar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="AUMENTAR"
+        android:text="@string/btn_name"
         app:layout_constraintTop_toBottomOf="@+id/textView"
         app:layout_constraintStart_toStartOf="@id/main"
         app:layout_constraintEnd_toEndOf="@id/main"
